@@ -1,3 +1,2 @@
-## Το c script έχει αρκετά σχόλια ώστε να είναι κατανοητό.
-## Παρατηρήσεις:
-### 1) Για το τεστ χρησιμοποιήθηκε η λίστα 10000 ζεύγων με τυχαίους αροιθμούς (με εύρος τιμών από -10^18 εώς 10^18). Η λίστα είναι διαθέσιμη (/trolley/test/number_list.csv).
+# Trolley Problem
+### For testing and performance purposes, a list with 10000 pairs of random numbers (in the range of -10^18 to 10^18). The list can be found in the test directory.
